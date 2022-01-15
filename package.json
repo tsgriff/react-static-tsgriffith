@@ -16,7 +16,7 @@
     "gray-matter": "^3.1.1",
     "json-loader": "^0.5.7",
     "klaw": "^2.1.1",
-    "marked": "^0.6.2",
+    "marked": "^4.0.10",
     "moment": "^2.22.1",
     "path": "^0.12.7",
     "preact": "^8.2.9",
