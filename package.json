@@ -28,7 +28,7 @@
     "react-markdown": "^3.2.1",
     "react-moment": "^0.7.0",
     "react-router": "^4.2.0",
-    "react-static": "^5.9.7"
+    "react-static": "^7.6.2"
   },
   "devDependencies": {
     "autotrack": "^2.4.1",
